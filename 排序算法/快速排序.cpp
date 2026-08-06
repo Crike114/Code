@@ -38,7 +38,7 @@ int qkst(int l, int r){
 }
 
 int main(){
-    // srand(time(0));
+    srand(time(0));
     cin>>n;
     for(int i = 0;i < n;i++){
         int x;
