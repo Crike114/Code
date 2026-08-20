@@ -10,13 +10,17 @@
 #define rc (mid << 1 | 1)
 #define mid ((l + r) >> 1)
 #define lg(log2Num) __lg(log2Num)
+
 // #define int long long
+#define int unsigned long long
+#define base 131
 
 using namespace std;
 
 
 
 signed main(){
+	cin.tie(0)->sync_with_stdio(0);
 
 
 	return 0;
