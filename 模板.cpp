@@ -11,6 +11,7 @@
 #define rc (mid << 1 | 1)
 #define mid ((l + r) >> 1)
 #define lg(log2Num) __lg(log2Num)
+#define lowbit(Num) (Num & -Num)
 
 // #define int long long
 // #define int unsigned long long
