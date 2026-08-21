@@ -2,6 +2,7 @@
 #include<bits/extc++.h>
 #define cxx __gnu_cxx
 #define pbds __gnu_pbds
+#define _inf 0x3f3f3f3f
 #define inf (INT_MAX >> 1)
 #define llinf (LLONG_MAX >> 1)
 #define for_0(rangeNum) for(int i = 0;i < rangeNum;i++)
@@ -12,7 +13,7 @@
 #define lg(log2Num) __lg(log2Num)
 
 // #define int long long
-#define int unsigned long long
+// #define int unsigned long long
 #define base 131
 
 using namespace std;
@@ -21,7 +22,6 @@ using namespace std;
 
 signed main(){
 	cin.tie(0)->sync_with_stdio(0);
-
-
+	
 	return 0;
 }
